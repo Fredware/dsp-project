@@ -1,4 +1,4 @@
-load("project_data.mat")
+load(".\data\project_data.mat")
 % plot(unfilteredNeuralData(:,1));
 % 
 Neural_Data1 = unfilteredNeuralData(:,1);
